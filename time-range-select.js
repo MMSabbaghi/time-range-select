@@ -66,7 +66,6 @@ class TimeRangeSelect {
     this.pressed = null;
     this.oldValues = [];
     this.angle;
-    this.init();
   }
 
   init() {
